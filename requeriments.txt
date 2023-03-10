@@ -1,0 +1,2 @@
+pyscopg2_binary==2.9.5
+boto3==1.26.88
