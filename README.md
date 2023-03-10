@@ -19,7 +19,7 @@ This AWS Lambda function downloads a CSV file from an S3 bucket, processes the d
 1. Clone this repository to your local machine:
    ``` javascript
    git clone https://github.com/gustavoblockchain/Backend_Teste 
-   cd Backend_Teste
+   
 
   2. Run the command pip install requeriments.txt to download all libs needed:
   ``` javascript
